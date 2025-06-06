@@ -3,13 +3,13 @@ wizard, bald, melancholic...
 
 born to sorcerize, forced to code...
 
-
+---
 
 fell in love with sleepless nights & endless thoughts...
 
 searching for knowledge, wisdom, science, mythology & creativity.
 
-
+---
 
 NeoVimmer, btw...
 
@@ -23,6 +23,7 @@ INTJ-8w9-MelChol, btw...
 Or maybe, I'm just a good joke with a bad punchline in a 70s Psycho-Cosmic Horror movie...
 Who knows?
 
+---
 
 - C#
 - Python
@@ -35,6 +36,7 @@ Who knows?
 - Scikit-Learn 
 - ASP.NET Core
 
+---
 
 reach me out:
 - [Telegram](https://t.me/maninava)
