@@ -1,21 +1,43 @@
-<p>
-wizard, bald, melancholic...<br/>
+
+wizard, bald, melancholic...
+
 born to sorcerize, forced to code...
 
-fell in love with sleepless nights & endless thoughts...<br/>
-searching for knowledge, wisdom, science, mythology & creativity.<br/><br/>
-NeoVimmer, btw...<br/>
-using Arch, btw...<br/>
-fighting god-complex, btw...<br/>
-INTJ-8w9-MelChol, btw...<br/>
 
-C#,‎ ‎ ‎ ‎ Python,‎ ‎ ‎ Bash,‎ ‎ ‎ VimScript,‎ ‎ ‎ Lua,‎ ‎ ‎ SQL;<br/>
-PyTorch,‎ ‎ ‎ Flask,‎ ‎ ‎ Scikit-Learn,‎ ‎ ‎ ASP.NET Core;<br/>
+fell in love with sleepless nights & endless thoughts...
+
+searching for knowledge, wisdom, science, mythology & creativity.
+
+
+NeoVimmer, btw...
+
+using Arch, btw...
+
+fighting god-complex, btw...
+
+INTJ-8w9-MelChol, btw...
+
+Or maybe, I'm just a good joke with a bad punchline in a 70s Psycho-Cosmic Horror movie...
+
+Who know?
+
+
+- C#
+- Python
+- Bash
+- VimScript
+- Lua
+- SQL
+- PyTorch
+- Flask
+- Scikit-Learn 
+- ASP.NET Core
+
 
 reach me out:
 - [Telegram](https://t.me/maninava)
 - manihabibinava@gmail.com
-</p>
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mavantgarderc&layout=compact&show_icons=true&theme=dracula)
 
