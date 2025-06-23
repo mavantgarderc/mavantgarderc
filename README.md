@@ -28,7 +28,6 @@ Who knows BTW?
 - C#
 - Python
 - Bash
-- VimScript
 - Lua
 - SQL
 - PyTorch
