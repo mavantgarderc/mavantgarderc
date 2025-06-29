@@ -11,16 +11,17 @@ wizard, bald, melancholic...
 
 ### Database & DevOps
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
+![DBeaver](https://img.shields.io/badge/DBeaver-382923?style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge)
 <!-- ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge) -->
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge)
-<!-- ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge) -->
 
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge)
+<!-- ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge) -->
+<!-- ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge) -->
 
 ### Backend Development
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge)
