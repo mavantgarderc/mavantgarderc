@@ -23,24 +23,23 @@ born to sorcerize, forced to code...
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge)
 
 ### Database & DevOps
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge)
 ![SSMS](https://img.shields.io/badge/SSMS-CC2927?style=for-the-badge)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge)
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge)
 
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ### Development Environment
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge)
 ![Neovim](https://img.shields.io/badge/NeoVim-57A143?style=for-the-badge)
 
----
 ---
 
 reach me out:
