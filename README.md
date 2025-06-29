@@ -1,8 +1,6 @@
 
 wizard, bald, melancholic...
 
-born to sorcerize, forced to code...
-
 ---
 
 ## Stack
