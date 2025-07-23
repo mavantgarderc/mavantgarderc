@@ -7,19 +7,21 @@ wizard, bald, melancholic...
 #### Dev Env
 ![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge)
 ![Neovim](https://img.shields.io/badge/NeoVim-57A143?style=for-the-badge)
+![nix-shell](https://img.shields.io/badge/nix--shell-5277C3?style=for-the-badge)
+![Obsidian](https://img.shields.io/badge/Obsidian-483699?style=for-the-badge)
 
 #### DB & DevOps
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
-![DBeaver](https://img.shields.io/badge/DBeaver-382923?style=for-the-badge)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge)
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge)
 
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge)
+![DBeaver](https://img.shields.io/badge/DBeaver-382923?style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge)
 
 #### Backend Dev
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge)
