@@ -1,4 +1,5 @@
 wizard, bald, melancholic...
+All Hail Terminal
 
 ---
 
