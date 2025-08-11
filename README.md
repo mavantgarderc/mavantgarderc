@@ -45,6 +45,8 @@ reach me out:
 - [Mail](mailto:manihabibinava@gmail.com)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mavantgarderc&layout=compact&show_icons=true&theme=dracula)
+<!-- ![Language Stats](https://raw.githubusercontent.com/mavantgarderc/RepositoryScanner/main/assets/languages.svg) -->
+
+[Language Stats](https://raw.githubusercontent.com/mavantgarderc/RepositoryScanner/main/assets/languages.svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ManiHNava&color=red&style=for-the-badge&label=Visited+by)
