@@ -47,6 +47,6 @@ reach me out:
 
 <!-- ![Language Stats](https://raw.githubusercontent.com/mavantgarderc/RepositoryScanner/main/assets/languages.svg) -->
 
-[Language Stats](https://raw.githubusercontent.com/mavantgarderc/RepositoryScanner/main/assets/languages.svg)
+![Language Stats](https://raw.githubusercontent.com/mavantgarderc/RepositoryScanner/main/assets/languages.svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ManiHNava&color=red&style=for-the-badge&label=Visited+by)
