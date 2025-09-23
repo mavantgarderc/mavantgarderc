@@ -44,4 +44,6 @@ reach me out:
 
 ![Language Stats](https://raw.githubusercontent.com/mavantgarderc/RepositoryScanner/main/assets/languages.svg)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=mavantgarderc&theme=onedark-duo)](https://git.io/streak-stats)
+
 ![Profile Views](https://komarev.com/ghpvc/?username=ManiHNava&color=red&style=for-the-badge&label=Visited+by)
