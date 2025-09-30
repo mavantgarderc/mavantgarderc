@@ -38,7 +38,7 @@ I construct & fabricate — wood, metal, binaries — because this is what a hum
 
 ---
 
-reach me out:
+Reach me out:
 - [Telegram](https://t.me/maninava)
 - [Mail](mailto:manihabibinava@gmail.com)
 
