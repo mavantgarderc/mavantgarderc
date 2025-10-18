@@ -1,4 +1,6 @@
-SWE Codewright, MLE Ronin, Runesmith Philomath...
+former musician, chemistry dropout, inexorably polymath...
+
+SWE dev, MLE enthusiast, philomath...
 
 wizard, bald, melancholic...
 
@@ -52,10 +54,16 @@ Axe of .NET & Katana of Python — once a wandering MLE ronin, now lumberjacking
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&color=FF9E3B)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&color=E82424)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&color=DE9800)
+![Graph Neural Networks](https://img.shields.io/badge/GNNs-000000?style=for-the-badge&color=7FB4CA)
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&color=658594)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&color=7AA89F)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&color=7FB4CA)
+
+### Sigils of Integrity
+![xUnit](https://img.shields.io/badge/xUnit-Blue?style=for-the-badge&color=7E9CD8)
+![MSTest](https://img.shields.io/badge/MSTest-Blue?style=for-the-badge&color=7FB4CA)
+![NUnit](https://img.shields.io/badge/NUnit-Blue?style=for-the-badge&color=658594)
 
 ---
 
@@ -63,8 +71,13 @@ Reach me out:
 - [Telegram](https://t.me/maninava)
 - [Mail](mailto:manihabibinava@gmail.com)
 
+Playlist at:
+- [Musichism](https://t.me/Musi_chism).
+
 ![Language Stats](https://raw.githubusercontent.com/mavantgarderc/RepositoryScanner/main/assets/languages.svg)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=mavantgarderc&theme=onedark-duo)](https://git.io/streak-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mavantgarderc&layout=compact&show_icons=true&theme=dracula)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ManiHNava&color=red&style=for-the-badge&label=Visited+by)
