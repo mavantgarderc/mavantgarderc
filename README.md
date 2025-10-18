@@ -72,12 +72,11 @@ Reach me out:
 - [Mail](mailto:manihabibinava@gmail.com)
 
 Playlist at:
-- [Musichism](https://t.me/Musi_chism).
+- [Musichism](https://t.me/Musi_chism)
+
 
 ![Language Stats](https://raw.githubusercontent.com/mavantgarderc/RepositoryScanner/main/assets/languages.svg)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=mavantgarderc&theme=onedark-duo)](https://git.io/streak-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mavantgarderc&layout=compact&show_icons=true&theme=dracula)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ManiHNava&color=red&style=for-the-badge&label=Visited+by)
