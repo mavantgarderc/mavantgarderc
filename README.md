@@ -49,6 +49,7 @@ Axe of .NET & Katana of Python — once a wandering MLE ronin, now lumberjacking
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&color=6693BF)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&color=618BB6)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&color=7E9CD8)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&color=E46876)
 
 ### Pipes of Oracles
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&color=FF9E3B)
