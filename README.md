@@ -16,8 +16,6 @@ Axe of .NET & Katana of Python — once a wandering MLE ronin, now lumberjacking
 
 ## Arcane Arsenal
 
-## Arcane Arsenal
-
 > Sanctum of Tools
 ![Arch](https://img.shields.io/badge/Arch-000?logo=arch-linux&style=flat-square)
 ![Neovim](https://img.shields.io/badge/Neovim-000?logo=neovim&style=flat-square)
