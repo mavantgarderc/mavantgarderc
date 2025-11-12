@@ -50,7 +50,7 @@ Axe of .NET & Katana of Python — once a wandering MLE ronin, now lumberjacking
 ![GNN](https://img.shields.io/badge/GNN-000?logo=graphql&logoColor=8A2BE2&style=flat-square)
 
 > Sigils of Integrity
-![xUnit](https://img.shields.io/badge/xUnit-000000?logo=.net&logoColor=white&style=flat-square)
+![xUnit](https://img.shields.io/badge/xUnit-000000?logo=dotnet&logoColor=7215E9&style=flat-square)
 ![Pytest](https://img.shields.io/badge/Pytest-000?logo=pytest&logoColor=0A9EDC&style=flat-square)
 
 ---
