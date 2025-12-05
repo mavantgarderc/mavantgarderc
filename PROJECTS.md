@@ -8,11 +8,11 @@
   - **_[OrigaVim](https://github.com/mavantgarderc/nvim)_**: A personal take on "experience everything & craft everything in terminal".
 
 - Python
-  - **_[Nokhodkhor](https://github.com/mavantgarderc/NokhodKhor)_** (Demo): My tribute to dear PacMan arcade.
+  - **_[Nokhodkhor](https://github.com/mavantgarderc/NokhodKhor)_**: My tribute to dear PacMan arcade.
   - **_[Repository Scanner](https://github.com/mavantgarderc/RepositoryScanner)_**: SVG Card generated based on your private & public repositories, using GitHub Auth Token.
 
 - C#
-  - **[_csdsa_](https://github.com/mavantgarderc/csdsa)** (Demo): Data Structure & Algorithms implementation in DotNet 8.0.
+  - **[_csdsa_](https://github.com/mavantgarderc/csdsa)**: Data Structure & Algorithms implementation in DotNet 9.0.100.
 
 ## Bonus
 
