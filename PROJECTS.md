@@ -6,6 +6,7 @@
   - **_[Raphael.nvim](https://github.com/mavantgarderc/raphael.nvim)_**: Modern theme management system for NeoVim >= 0.10.
   - **_[PrismPunk.nvim](https://github.com/mavantgarderc/prismpunk.nvim)_**: A gigantic horde of WCAG Standards friendly colorschemes, containing comic characters (mostly) DC, Kanagawa, Visual Dopamine Detox, etc. including more than 250 colorschemes.
   - **_[OrigaVim](https://github.com/mavantgarderc/nvim)_**: A personal take on "experience everything & craft everything in terminal".
+  - **_[ZENVim](https://github.com/mavantgarderc/zenvim)_**: a flow-state take on nvim & modern plugins, to force the player into playing with heart & mind in the same direction.
 
 - Python
   - **_[Nokhodkhor](https://github.com/mavantgarderc/NokhodKhor)_**: My tribute to dear PacMan arcade.
