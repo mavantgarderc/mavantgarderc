@@ -1,3 +1,5 @@
+I'm Mani (aka Mava), backend, machine learning & plugin programmer.
+
 former musician, chemistry dropout, inexorably polymath...
 
 SWE dev, MLE enthusiast, philomath...
@@ -12,7 +14,7 @@ I believe in the soul has to fly by the thoughts & skills, the journeys a mind s
 
 Axe of .NET & Katana of Python — once a wandering MLE ronin, now lumberjacking solid backends.
 
-> <u>List of my public repositories on GitHub: [PROJECT.md](https://github.com/mavantgarderc/mavantgarderc/blob/main/PROJECTS.md).<u>
+> List of my public repositories on GitHub: [PROJECTS.md](https://github.com/mavantgarderc/mavantgarderc/blob/main/PROJECTS.md).
 
 ---
 
@@ -26,7 +28,7 @@ Axe of .NET & Katana of Python — once a wandering MLE ronin, now lumberjacking
 
 > Codex & Breagen <br>![DBeaver](https://img.shields.io/badge/DBeaver-000?logo=dbeaver&logoColor=897263&style=flat-square)![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?logo=postgresql&logoColor=4169E1&style=flat-square)
 
-> Runes of Continuity <br>![Git](https://img.shields.io/badge/Git-000?logo=git&logoColor=F05032&style=flat-square)![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&style=flat-square)![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-000?logo=github-actions&logoColor=2088FF&style=flat-square)![GitLab](https://img.shields.io/badge/GitLab-000?logo=gitlab&style=flat-square)![GitLab CI](https://img.shields.io/badge/GitLab%20CI-000?logo=gitlab&style=flat-square)![Docker](https://img.shields.io/badge/Docker-%20?logo=docker&logoColor=2496ED&color=000000&style=flat-square)![Ansible](https://img.shields.io/badge/Ansible-%20?logo=ansible&logoColor=C60000&color=black&style=flat-square)
+> Runes of Continuity <br>![Git](https://img.shields.io/badge/Git-000?logo=git&logoColor=F05032&style=flat-square)![Docker](https://img.shields.io/badge/Docker-%20?logo=docker&logoColor=2496ED&color=000000&style=flat-square)![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&style=flat-square)![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-000?logo=github-actions&logoColor=2088FF&style=flat-square)![Ansible](https://img.shields.io/badge/Ansible-%20?logo=ansible&logoColor=C60000&color=black&style=flat-square)
 
 > Pipes of Oracles <br>![PyTorch](https://img.shields.io/badge/PyTorch-000?logo=pytorch&logoColor=EE4C2C&style=flat-square)![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-000?logo=scikit-learn&logoColor=F7931E&style=flat-square)![GNN](https://img.shields.io/badge/GNN-000?logo=graphql&logoColor=8A2BE2&style=flat-square)
 
@@ -38,22 +40,18 @@ Down in dungeon, currently I'm studying:
 
 - Clean Architecture
 - CI/CD
-- API Security (some nights, I wet-dream about pentest my own code... bury it here)
+- API Security
 - TorchSharp
 
 ---
 
-Reach me out:
+Contact:
 
 - [Telegram](https://t.me/maninava)
 - [Mail](mailto:manihabibinava@gmail.com)
 
-Playlist at:
-
-- [Musichism](https://t.me/Musi_chism)
-
 ![Language Stats](https://raw.githubusercontent.com/mavantgarderc/RepositoryScanner/main/assets/languages.svg)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=mavantgarderc&theme=onedark-duo)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=mavantgarderc&theme=material)](https://git.io/streak-stats)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ManiHNava&color=red&style=for-the-badge&label=Visited+by)
