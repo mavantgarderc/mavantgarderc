@@ -22,3 +22,4 @@
 
 - Favorite Iso-Chronic Beats to boost focus:
   - [Iso-Chronic No.01, Drum n Bass](https://www.youtube.com/watch?v=w1xs5T1cvbk).
+  - [Iso-Chronic No.02, Drum n Bass](https://www.youtube.com/watch?v=mR5I6M8OvoU).

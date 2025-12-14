@@ -26,7 +26,7 @@ Axe of .NET & Katana of Python — once a wandering MLE ronin, now lumberjacking
 
 > Codex & Breagen <br>![DBeaver](https://img.shields.io/badge/DBeaver-000?logo=dbeaver&logoColor=897263&style=flat-square)![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?logo=postgresql&logoColor=4169E1&style=flat-square)
 
-> Runes of Continuity <br>![Docker](https://img.shields.io/badge/Docker-000?logo=docker&logoColor=2496ED&style=flat-square)![Git](https://img.shields.io/badge/Git-000?logo=git&logoColor=F05032&style=flat-square)![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-000?logo=github-actions&logoColor=2088FF&style=flat-square)
+> Runes of Continuity <br>![Docker](https://img.shields.io/badge/Docker-000?logo=docker&logoColor=2496ED&style=flat-square)![Git](https://img.shields.io/badge/Git-000?logo=git&logoColor=F05032&style=flat-square)![GitHub](https://img.shields.io/badge/GitHub-000?logo=gitlab&style=flat-square)![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-000?logo=github-actions&logoColor=2088FF&style=flat-square)![GitLab](https://img.shields.io/badge/GitLab-000?logo=gitlab&style=flat-square)![GitLab CI](https://img.shields.io/badge/GitLab%20CI-000?logo=gitlab&style=flat-square)
 
 > Pipes of Oracles <br>![PyTorch](https://img.shields.io/badge/PyTorch-000?logo=pytorch&logoColor=EE4C2C&style=flat-square)![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-000?logo=scikit-learn&logoColor=F7931E&style=flat-square)![GNN](https://img.shields.io/badge/GNN-000?logo=graphql&logoColor=8A2BE2&style=flat-square)
 
@@ -38,7 +38,7 @@ Down in dungeon, currently I'm studying:
 
 - Clean Architecture
 - CI/CD
-- API Security
+- API Security (some nights, I wet-dream about pentest my own code... bury it here)
 - TorchSharp
 
 ---
