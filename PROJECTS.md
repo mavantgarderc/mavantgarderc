@@ -22,8 +22,7 @@
 
 ## Bonus
 
-- Personal Playlist:
-  - [Musichism](https://t.me/Musi_chism).
+- Personal Playlist: [Musichism](https://t.me/Musi_chism).
 
 - Favorite beats to boost focus:
   - [Iso-Chronic No.01, Drum n Bass](https://www.youtube.com/watch?v=w1xs5T1cvbk).
