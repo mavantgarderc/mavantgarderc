@@ -15,10 +15,10 @@
   - **[_csdsa_](https://github.com/mavantgarderc/csdsa)**: (Practice repertoire) Data Structure & Algorithms implementation in DotNet 9.0.100.
 
 - Documentations
-	- **_[.NET X Linux]_**(https://github.com/mavantgarderc/linuxXdotnet): setup your Linux system to develop .NET.
-	- **_[.NET X Neovim]_**(https://github.com/mavantgarderc/nvimXdotnet): setup your Neovim editor to develop .NET.
-	- **_[SQLServer X Linux]_**(https://github.com/mavantgarderc/sqlserverXlinux): setup sql-server to work flawlessly on Linux using CLI tools & DBeaver.
-	- **_[SQLServer X Neovim]_**(https://github.com/mavantgarderc/sqlserverXnvim): setup your Neovim editor to have the highest functionality possible in Neoevim.
+  - **_[.NET X Linux]_**(https://github.com/mavantgarderc/linuxXdotnet): setup your Linux system to develop .NET.
+  - **_[.NET X Neovim]_**(https://github.com/mavantgarderc/nvimXdotnet): setup your Neovim editor to develop .NET.
+  - **_[SQLServer X Linux]_**(https://github.com/mavantgarderc/sqlserverXlinux): setup sql-server to work flawlessly on Linux using CLI tools & DBeaver.
+  - **_[SQLServer X Neovim]_**(https://github.com/mavantgarderc/sqlserverXnvim): setup your Neovim editor to have the highest functionality possible in Neoevim.
 
 ## Bonus
 
@@ -26,10 +26,10 @@
   - [Musichism](https://t.me/Musi_chism).
 
 - Favorite Iso-Chronic Beats to boost focus:
-  - [Iso-Chronic No.01,, Drum n Bass](https://www.youtube.com/watch?v=w1xs5T1cvbk).
+  - [Iso-Chronic No.01, Drum n Bass](https://www.youtube.com/watch?v=w1xs5T1cvbk).
   - [Iso-Chronic No.02, Drum n Bass](https://www.youtube.com/watch?v=mR5I6M8OvoU).
-	- [Dark Phonk, No. 01, stop starting, lock in](https://www.youtube.com/watch?v=zF-j5u1CoAo).
-	- [Dark Phonk, No. 02, you God this](https://www.youtube.com/watch?v=XjJ3cAaAO4A).
-	- [Dark Phonk, No. 03, focus is gods rise](https://www.youtube.com/watch?v=A4Y5NkmbKco).
-	- [Dark Phonk, No. 04, focus mode](https://www.youtube.com/watch?v=H9IZSBKeWMk).
-	- [Dark Phonk, No. 05, no comfort, only progress.](https://www.youtube.com/watch?v=_CHFV_mt03M).
+  - [Dark Phonk, No. 01, stop starting, lock in](https://www.youtube.com/watch?v=zF-j5u1CoAo).
+  - [Dark Phonk, No. 02, you God this](https://www.youtube.com/watch?v=XjJ3cAaAO4A).
+  - [Dark Phonk, No. 03, focus is gods rise](https://www.youtube.com/watch?v=A4Y5NkmbKco).
+  - [Dark Phonk, No. 04, focus mode](https://www.youtube.com/watch?v=H9IZSBKeWMk).
+  - [Dark Phonk, No. 05, no comfort, only progress.](https://www.youtube.com/watch?v=_CHFV_mt03M).
