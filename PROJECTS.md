@@ -26,5 +26,10 @@
   - [Musichism](https://t.me/Musi_chism).
 
 - Favorite Iso-Chronic Beats to boost focus:
-  - [Iso-Chronic No.01, Drum n Bass](https://www.youtube.com/watch?v=w1xs5T1cvbk).
+  - [Iso-Chronic No.01,, Drum n Bass](https://www.youtube.com/watch?v=w1xs5T1cvbk).
   - [Iso-Chronic No.02, Drum n Bass](https://www.youtube.com/watch?v=mR5I6M8OvoU).
+	- [Dark Phonk, No. 01, stop starting, lock in](https://www.youtube.com/watch?v=zF-j5u1CoAo).
+	- [Dark Phonk, No. 02, you God this](https://www.youtube.com/watch?v=XjJ3cAaAO4A).
+	- [Dark Phonk, No. 03, focus is gods rise](https://www.youtube.com/watch?v=A4Y5NkmbKco).
+	- [Dark Phonk, No. 04, focus mode](https://www.youtube.com/watch?v=H9IZSBKeWMk).
+	- [Dark Phonk, No. 05, no comfort, only progress.](https://www.youtube.com/watch?v=_CHFV_mt03M).
