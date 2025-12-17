@@ -15,10 +15,10 @@
   - **[_csdsa_](https://github.com/mavantgarderc/csdsa)**: (Practice repertoire) Data Structure & Algorithms implementation in DotNet 9.0.100.
 
 - Documentations
-  - **_[.NET X Linux]_**(https://github.com/mavantgarderc/linuxXdotnet): setup your Linux system to develop .NET.
-  - **_[.NET X Neovim]_**(https://github.com/mavantgarderc/nvimXdotnet): setup your Neovim editor to develop .NET.
-  - **_[SQLServer X Linux]_**(https://github.com/mavantgarderc/sqlserverXlinux): setup sql-server to work flawlessly on Linux using CLI tools & DBeaver.
-  - **_[SQLServer X Neovim]_**(https://github.com/mavantgarderc/sqlserverXnvim): setup your Neovim editor to have the highest functionality possible in Neoevim.
+  - **_[.NET X Linux](https://github.com/mavantgarderc/linuxXdotnet)_**: setup your Linux system to develop .NET.
+  - **_[.NET X Neovim](https://github.com/mavantgarderc/nvimXdotnet)_**: setup your Neovim editor to develop .NET.
+  - **_[SQLServer X Linux](https://github.com/mavantgarderc/sqlserverXlinux)_**: setup sql-server to work flawlessly on Linux using CLI tools & DBeaver.
+  - **_[SQLServer X Neovim](https://github.com/mavantgarderc/sqlserverXnvim)_**: setup your Neovim editor to have the highest functionality possible in Neoevim.
 
 ## Bonus
 
