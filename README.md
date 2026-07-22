@@ -4,8 +4,6 @@ Independent developer — .NET Core by trade, polyglot building for the love of 
 
 Check my tech debts at: [My Public Repositories List](PROJECTS.md)
 
-Currently pushing on local-first, easy-to-use tools and documentation. Built to reduce cognitive load.
-
 ![Linux](https://img.shields.io/badge/Linux-000?logo=linux&style=flat-square)
 ![Neovim](https://img.shields.io/badge/Neovim-000?logo=neovim&style=flat-square)
 ![Obsidian](https://img.shields.io/badge/Obsidian-000?logo=obsidian&logoColor=5C32B2&style=flat-square)
