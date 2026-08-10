@@ -1,6 +1,11 @@
 MLE Monk · SWE Ronin · Tooling Blacksmith · Vim Shokunin
 
-Independent developer — .NET Core by trade, polyglot building for the love of the game. Open to Developer Experience & Tooling Development, Backend & ML Infrastructure roles.
+Independent developer — .NET Core by trade, polyglot building for the love of the game.
+
+I am open to part-time & projects:
+- Developer Experience
+- Tooling Development
+- Platform Development
 
 Check my tech debts at: [My Public Repositories List](PROJECTS.md)
 
@@ -22,3 +27,4 @@ Check my tech debts at: [My Public Repositories List](PROJECTS.md)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-000?logo=tensorflow&logoColor=FF6F00&style=flat-square)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000?logo=typescript&logoColor=3178C6&style=flat-square)
 ![Rust](https://img.shields.io/badge/Rust-000?logo=rust&logoColor=DEA584&style=flat-square)
+![PineScript](https://img.shields.io/badge/PineScript-000?logo=pinescript&logoColor=DEA584&style=flat-square)

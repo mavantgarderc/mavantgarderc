@@ -30,6 +30,9 @@
 - TypeScripts
   - **_[olivine](https://github.com/mavomen/olivine)_**: Connect olivine to your zennotes/obsdian/notes directory, to initiate a repeating reviewing system by using SM2, Leitner & FSRS strategies with a Minimal yet useful TUI & CLI commands.
 
+- PineScript
+  - **_[vesper](https://github.com/mavomen/vesper)_**: TradingView liquidity-time indicator for PineScript. Shades Asia/London/NY sessions with distinct highlighting for high-liquidity overlap windows, auto-marks session highs/lows, & fires alert conditions on session open/close for downstream automation.
+
 ## Documentations & Mava-Style Tricks
 
 - **_[.NET X Linux](https://github.com/mavomen/linuxXdotnet)_**: Full Linux + .NET developer environment manual: multi‑SDK, AOT, docker, GC/CLR internals, Omnisharp, CLI workflows.
